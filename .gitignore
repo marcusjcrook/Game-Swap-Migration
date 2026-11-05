@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Compiled output and test artifacts
+dist/
+coverage/
+.vitest/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
