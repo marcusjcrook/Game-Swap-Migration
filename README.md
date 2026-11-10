@@ -1,6 +1,6 @@
 # Game Swap Migration API
 
-A Fastify + PostgreSQL API for migrating and managing game-swap data.
+TypeScript REST API for a game-swapping platform, built with Fastify and PostgreSQL, migrated from a PHP/MySQL graduate course project.
 
 ## Prerequisites
 
